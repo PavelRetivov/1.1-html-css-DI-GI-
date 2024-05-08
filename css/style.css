@@ -893,6 +893,13 @@ margin-top: 25px;
 }
 
 @media screen and (max-width: 1024px){
+    /*headers*/
+    header.container img{
+        margin-left: 46px;
+    }
+    .menuButton{
+        margin-right: 46px;
+    }
     /*intro*/
     .container{
         width: 1024px;
@@ -1120,6 +1127,13 @@ margin-top: 25px;
 /*//////////////////////////////////////////////768px//////////////////////////////*/
 
 @media screen and (max-width: 768px){
+    /*headers*/
+    header.container img{
+        margin-left: 46px;
+    }
+    .menuButton{
+        margin-right: 46px;
+    }
     /*intro*/
     .container{
         width: 768px;
@@ -1294,6 +1308,13 @@ margin-top: 25px;
 }
 /*//////////////////////////////////////////////640px//////////////////////////////*/
 @media screen and (max-width: 640px){
+    /*headers*/
+    header.container img{
+        margin-left: 53px;
+    }
+    .menuButton{
+        margin-right: 53px;
+    }
     /*intro*/
     .container{
         width: 640px;
@@ -1536,6 +1557,13 @@ margin-top: 25px;
 /*//////////////////////////////////////////////320px//////////////////////////////*/
 
 @media screen and (max-width: 320px){
+    /*headers*/
+    header.container img{
+        margin-left: 25px;
+    }
+    .menuButton{
+        margin-right: 25px;
+    }
     /*intro*/
     .container{
         width: 320px;
