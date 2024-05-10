@@ -4,4 +4,4 @@ Image contains the necessary images for the site
 
 Index contains the structure of the site
 
-site address pavelretivov.github.io/1.1-html-css-DI-GI-/
+site address https://pavelretivov.github.io/1.1-html-css-DI-GI-/
