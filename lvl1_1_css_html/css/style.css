@@ -50,7 +50,7 @@ header.container img{
 }
 /* start intro */
 #intro{
-    background-image: url('../images/roundabout/intro.svg');
+    background-image: url('../images/1440px/roundabout/intro.svg');
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     color:#FFFFFF;
@@ -131,7 +131,7 @@ header.container img{
 #switch2:checked~.position #controls label:nth-child(1),
 #switch3:checked~.position #controls label:nth-child(2){
     display: block;
-    background:url('../images/roundabout/forward.svg') no-repeat;
+    background:url('../images/1440px/roundabout/forward.svg') no-repeat;
     background-color: var(--main-bg-color);
     background-position: center;
     float: left;
@@ -141,7 +141,7 @@ header.container img{
 #switch1:checked~.position #controls label:nth-child(2),
 #switch2:checked~.position #controls label:nth-child(3),
 #switch3:checked~.position #controls label:nth-child(1){
-    background:url('../images/roundabout/back.svg') no-repeat;
+    background:url('../images/1440px/roundabout/back.svg') no-repeat;
     background-color: #F9F6E5;
     background-position: center;
     float: right;
@@ -442,7 +442,7 @@ text-transform: uppercase;
     display: none;
 }
 .content-image .serch-butt{
-    content: url('../images/icons/search.png');
+    content: url('../images/1440px/icons/search.png');
     position: absolute;
     left: 60%;
     top:50%;
@@ -450,7 +450,7 @@ text-transform: uppercase;
     transition: opacity 0.5s ease;
 }
 .content-image .buttun-but{
-    content: url('../images/icons/info-button.png');
+    content: url('../images/1440px/icons/info-button.png');
     position: absolute;
     text-align: center; 
     background-repeat: no-repeat;
@@ -749,7 +749,7 @@ section.conten-portfolio{
     height: 200px;
 }
 .testimonial-block span{
-    background-image: url(../images/testimonail/kovichki.png);
+    background-image: url(../images/1440px/testimonail/kovichki.png);
     background-repeat: no-repeat;
     text-align: center;
     width: 50px;
@@ -799,7 +799,7 @@ section.conten-portfolio{
     position: relative;
 }
 .footer-blocks::after{
-    content: url(../images/title/header-logo.svg);
+    content: url(../images/1440px/title/header-logo.svg);
     width: 230px;
     height: 60px;
     background-color: var(--main-bg-color);
